@@ -1,7 +1,7 @@
 {
-  "name": "redux-simple-starter",
+  "name": "heroku-environment-generator",
   "version": "1.0.0",
-  "description": "Simple starter package for Redux with React and Babel support",
+  "description": "Export environment variable from heroku to your local shell",
   "main": "index.js",
   "bin": {
     "generate-env": "./index.js"

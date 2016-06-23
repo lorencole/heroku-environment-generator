@@ -5,6 +5,7 @@ Export environment variables from heroku to your local shell.
 ## Code Example
 
 ```
+$ node install -g heroku-environment-generator
 $ generate-env --app heroku-app-name
 $ source heroku-app-name.config
 ```
