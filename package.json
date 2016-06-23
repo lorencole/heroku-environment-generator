@@ -1,0 +1,13 @@
+{
+  "name": "redux-simple-starter",
+  "version": "1.0.0",
+  "description": "Simple starter package for Redux with React and Babel support",
+  "main": "index.js",
+  "bin": {
+    "generate-env": "./index.js"
+  },
+  "dependencies": {
+    "fs": "0.0.2",
+    "yargs": "^4.7.1"
+  }
+}
